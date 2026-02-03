@@ -1,0 +1,77 @@
+{
+  "prompt_structure": {
+    "subject": {
+      "Ratio": "9:16"
+      "appearance": "Sydney Sweeney with long, straight, vibrant copper-red hair, fair complexion, soft glam makeup.",
+      "pose": "Crouching low in a squatting position on a stone step, knees apart, head turned looking to her right (viewer's left), casual and candid stance.",
+      "expression": "Neutral, relaxed, looking away from the camera."
+    },
+    "attire": {
+      "tops": "Tight white scoop-neck tank top/camisole, oversized black leather biker jacket worn loosely and draped off the shoulders.",
+      "bottoms": "Leopard print mini skirt (partially visible due to pose).",
+      "footwear": "Black pointed-toe high heel pumps.",
+      "accessories": "Small black structured shoulder bag held by the strap in right hand, gold hoop earrings, layered thin gold necklaces."
+    },
+    "environment": {
+      "background": "Urban doorway entrance at night.",
+      "details": "Large pale sage-green wooden double doors with recessed paneling and vertical brass handles. To the right, a textured sandstone/beige stone wall corner.",
+      "signage": "A rectangular reddish-brown plaque on the stone wall displaying the number '3' and the text 'BRUNSWICK'."
+    },
+    "lighting_and_style": {
+      "lighting": "Direct on-camera flash photography, high contrast with sharp shadows behind the subject, night-time illumination.",
+      "aesthetic": "Candid street style, 'night out' fashion photography, paparazzi style, glossy finish.",
+      "quality_modifiers": "4k, HD, 8k resolution, photorealistic, hyper-detailed, sharp focus, incredibly detailed texture, masterpiece, raw photo."
+    }
+  },
+  "full_prompt_string": "A photorealistic 4k HD photo of a young woman with long straight copper-red hair crouching on a stone doorstep at night. She is wearing a tight white tank top, a black leather jacket draped off her shoulders, a leopard print mini skirt, and black pointed-toe heels. She holds a small black handbag and looks to the side. Behind her are pale green paneled double doors with brass handles and a sandstone wall with a plaque reading '3 BRUNSWICK'. The lighting is direct flash photography style, creating a candid, high-contrast, street-fashion aesthetic with sharp focus and high detail."
+}
+
+Video prompt:
+
+{
+  "project_title": "Parisian Golden Hour Editorial",
+  "format": "Ultra-realistic cinematic fashion film",
+  "scene_description": {
+    "subject": {
+      "demographics": "Young woman",
+      "appearance": "Stylish, elegant, long red hair, realistic skin texture",
+      "expression": "Confident eye contact, natural blinking, relaxed breathing",
+      "pose": "Sitting elegantly on stone steps"
+    },
+    "wardrobe": {
+      "outerwear": "Black leather jacket (high detail, light reflections)",
+      "top": "White top",
+      "bottoms": "Leopard print mini skirt",
+      "footwear": "Black pointed heels (shiny texture)",
+      "accessories": "Small black handbag"
+    },
+    "environment": {
+      "location": "Outside classic European building",
+      "architecture": "Stone steps, mint-green double doors, brass handles",
+      "atmosphere": "Moody Parisian street vibe",
+      "background_elements": "Soft ambient city movement, faint street life motion blur, creamy bokeh"
+    }
+  },
+  "cinematography": {
+    "camera_movement": "Medium shot slowly pushing in for a smooth close-up",
+    "camera_style": "Slight handheld luxury editorial feel",
+    "focal_properties": "Shallow depth of field, high focus on subject, blurred background",
+    "lighting": "Soft golden-hour, warm tones, natural light reflections"
+  },
+  "action_and_motion": {
+    "character_action": "Slowly shifts legs, adjusts handbag, tilts head slightly",
+    "environmental_physics": "Subtle breeze gently moving hair",
+    "pacing": "Slow motion",
+    "frame_rate": "60fps"
+  },
+  "post_production": {
+    "color_grading": {
+      "highlights": "Warm beige",
+      "accents": "Soft green tones (from door)",
+      "shadows": "Rich blacks",
+      "texture": "Subtle film grain"
+    },
+    "aesthetic": "Vogue-style luxury editorial, 4K fashion campaign quality"
+  },
+  "generated_prompt_string": "Ultra-realistic cinematic fashion film. Medium shot slowly pushing in to close-up. A stylish young woman with long red hair sits on stone steps outside a European building with mint-green double doors. She wears a black leather jacket, white top, leopard print mini skirt, and pointed heels. Soft golden-hour lighting. She shifts legs, adjusts handbag, and tilts head with confident eye contact. 60fps slow motion. Creamy bokeh background, moody Parisian street atmosphere, warm beige color grading, luxury editorial aesthetic, 4K."
+}
